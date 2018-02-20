@@ -21,5 +21,5 @@ permalink: /docs/mod4/
 #### Your Slack assignment
 * **One person in your group**: create a new "Channel" in Slack for your group. Use a name that reflects the topic of your article. The other team members are required to join the group's Slack Channel. Invite your instructors to your group so we can answer any questions.
 * Have a discussion with your group in your group's Slack channel - you should discuss your article title, the location in or around LA to which you will map your article, and the category for your article.
-* Remember, if you have questions or don't know how to do something, send us a message on Slack!
+* Remember, if you have questions or don't know how to do something, send us a message on Slack!sn
 * You can also Direct Message others in Slack and use the "@" sign to mention someone in Slack, for example, @instructorusername. Try it!
