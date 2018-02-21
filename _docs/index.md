@@ -15,25 +15,25 @@ To students: Do not wait until the last minute to do these modules because you w
 Important deadlines:
 
 #### Week 4
-* Complete on your own:
+Complete on your own:
 * [Module 1: Preparations](../mod1/)
 
 #### Week 7
-* Complete on your own:
-* [Module 2: Images](../mod2/)
-* [Module 3: Prep your images](../mod3/)
+Complete in class:
+* [Module 2: The Image Worksheet](../mod2/)
 
 #### Week 8
-* Complete in class with Joanna Chen Cham and Simon Lee:
+Complete on your own:
+* [Module 3: Prep your images](../mod3/)
 * [Module 4: Prepare for Lab session 1](../mod4/)
 
 #### Week 8
-* Complete in class with Simon Lee
-* Module 5: Setting up your GitHub repository
-* Module 6: Creating your article Markdown file
-* Module 7: Uploading your images to GitHub
+Complete in class with Simon Lee
+* [Module 5: Setting up your GitHub repository](../mod5/)
+* [Module 6: Creating your article Markdown file](../mod6/)
+* [Module 7: Uploading your images to GitHub](../mod7/)
 
 #### Week 10
-* Complete in class with Joanna Chen Cham and Simon Lee
-* Module 8: Filling in the article data and content
-* Module 9: Submit your work with a Pull Request
+Complete in class with Joanna Chen Cham and Simon Lee
+* [Module 8: Filling in the article data and content](../mod8/)
+* [Module 9: Submit your work with a Pull Request](../mod9/)
