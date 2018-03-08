@@ -44,7 +44,7 @@ To connect your article to a place on the map, you'll need to gather a few bits 
     * Write a short summary, quote, or description that reflects the importance of the place to the item(s) about which you are writing. You can change this later as your annotation develops, but go ahead and put in a short summary now. Limit to 320 characters or less!
 
 **The geographic coordinates**
-* We'll need geographic coordinates to pin the marker to the map. You can look up geographic coordinates for your location here: [http://www.gps-coordinates.net](http://www.gps-coordinates.net)
+* We'll need geographic coordinates to pin the marker to the map. You can look up geographic coordinates for your location here: [http://gps-coordinates.org/](http://gps-coordinates.org/)
 * Add the coordinates to the frontmatter in the corresponding `lat: ` and `long: ` fields
 
 Scroll down and saver your work :)
