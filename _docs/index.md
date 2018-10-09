@@ -24,18 +24,18 @@ Complete in class (during trip to Special Collections):
 * Hoemwork: Make sure your form is complete before the next class session!
 
 #### Week 8
-Homework: Complete on your own before the next session with Simon Lee:
+Homework: Complete on your own before the next session with library staff:
 * [Module 3: Prep your images](../mod3/)
 * [Module 4: Prepare for Lab session 1](../mod4/)
 
 #### Week 8
-Complete in class with Simon Lee:
+Complete in class with library staff:
 * [Module 5: Setting up your GitHub repository](../mod5/)
 * [Module 6: Creating your article Markdown file](../mod6/)
 * [Module 7: Uploading your images to GitHub](../mod7/)
 * Homework: Start working on [Module 8: Filling in the article data and content](../mod8/)
 
 #### Week 10
-Complete in class with Joanna Chen Cham and Simon Lee:
+Complete in class with library staff:
 * [Module 8: Filling in the article data and content](../mod8/)
 * [Module 9: Submit your work with a Pull Request](../mod9/)
