@@ -5,7 +5,13 @@ permalink: /docs/mod5/
 
 #### Fork the lyrical map site
 Now it's time to make your own copy of the repo/site (or "fork" it) so you can add your own content to the map!
-* **Only one person in your group should fork the site**. The others will be added as collaborators and will be able to work directly on the site that way.
+
+##### What's a fork?
+> Forking is at the core of social coding at GitHub. - [Forking Projects](https://guides.github.com/activities/forking/)
+
+Creating a *fork* produces your own personal copy of someone else’s code. This allows you to edit your copy and test out your  changes before submitting them back to the original code repository. After you test out your changes, you can submit a *Pull Request* to submit your changes up to the original project. We will walk you through the process!
+
+* **Essential: Only one person in your group should fork the site**. Start by choosing who in your group should fork the site. The others will be added as collaborators and will be able to work directly on the site that way. 
 * While logged in to your GitHub account, visit the `lyricalmap` repository: `https://github.com/CityStoriesUCLA/lyricalmap`
 * See in the top right corner where is has the "Fork" button? Click on it. ![](https://www.linode.com/docs/assets/github-fork.png)
 * You'll see an animation letting you know that GitHub is copying the site over to your account.
@@ -23,7 +29,7 @@ _We want to make sure everything is working correctly, so let's visit your live 
 
 #### Add your teammates as collaborators
 Now let's add your teammates as collaborators to your forked site so they can contribute!
-* **Only the one team member that forked the site needs to add collaborators.**
+* **Essential: Only the one team member that forked the site needs to add collaborators.**
 * Back in your GitHub repository (not the live project site), go to "Settings" again.
 * In the left navigation, there is a menu item for "Collaborators" - click it. ![](https://help.github.com/assets/images/help/repository/repo-settings-collaborators.png)
 * In the text box, enter the GitHub usernames of your teammates, one by one, clicking on the "Add collaborator" button after each one.

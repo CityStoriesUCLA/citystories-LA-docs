@@ -7,12 +7,12 @@ permalink: /docs/mod6/
 * **Only one person in your group will create the file!**
 * In your GitHub `lyricalmap` repository `[githubusername] / lyricalmap`, navigate to the `_posts` directory.
 * You are going to create a new file here by clicking the "Create New File" button [](https://help.github.com/assets/images/help/repository/create_new_file.png)
-* The first think we want to do is name our file - **The filename is important!**
+* The first think we want to do is name our file - **The filename is very important!** 
     * Start the file name with today's date in this format: `YYYY-MM-DD`, for example `2018-02-12`
     * Next in the filename will be a dash `-` followed by the quarter, for example `w18` for Winter 2018
     * Next will be another underscore, followed by your group number, for example `_01` for group 1
     * Finally, add the Markdown file extension `.md` -- you'll end up with something like: `2018-02-12-w18_01.md`
-* Now that we've given our file a name, let's add some of the "Frontmatter", or the article's metadata. Copy and paste the following into the text area of your file - make sure you get all the lines, including the three dashes on the first and last lines!:
+* Now that we've given our file a name, let's add some of the "Frontmatter", or the article's metadata. This "frontmatter" contains the essential information about your post. It must be formatted correctly for your post to display properly. Copy and paste the following into the text area of your file - make sure you get all the lines, including the three dashes on the first and last lines!:
 
 <script src="https://gist.github.com/kirschbombe/a806fe27ca6c9edb46c06c209b79d1f1.js"></script>
 
