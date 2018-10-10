@@ -21,7 +21,7 @@ permalink: /docs/mod1/
 
 #### Sign up for Slack
 
-* Once you have completed everything above, connect with your instructors via Slack (Note: Instructors: Colleen Jaurretche, Joanna Chen Cham (joannacham), Simon Lee (simonlee83), and Dawn Childress(dchildress))
+* Once you have completed everything above, connect with your instructors via Slack (Note: Instructors: Colleen Jaurretche, Doug Worsham (dmcwo), The [WI+RE Team](https://uclalibrary.github.io/research-tips/), and Dawn Childress(dchildress))
 * Slack is a messaging application and will be the primary mode of communication for the project
 * Sign up for Slack using your UCLA email address here: [https://citystoriesucla.slack.com/signup](https://citystoriesucla.slack.com/signup)
 * Before class, send a message via Slack with the following information (please submit in the **#module1** channel):
