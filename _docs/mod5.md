@@ -9,7 +9,7 @@ Now it's time to make your own copy of the repo/site (or "fork" it) so you can a
 ##### What's a fork?
 > Forking is at the core of social coding at GitHub. - [Forking Projects](https://guides.github.com/activities/forking/)
 
-Creating a *fork* produces your own personal copy of someone else’s code. This allows you to edit your copy and test out your  changes before submitting them back to the original code repository. After you test out your changes, you can submit a *Pull Request* to submit your changes up to the original project. We will walk you through the process!
+Creating a *fork* produces your own personal copy of someone else’s code. This allows you to edit your copy and test out your changes before submitting them back to the original code repository. After you test out your changes, you can submit a *Pull Request* to submit your changes up to the original project. We will walk you through the process!
 
 * **Essential: Only one person in your group should fork the site**. Start by choosing who in your group should fork the site. The others will be added as collaborators and will be able to work directly on the site that way. 
 * While logged in to your GitHub account, visit the `lyricalmap` repository: `https://github.com/CityStoriesUCLA/lyricalmap`
