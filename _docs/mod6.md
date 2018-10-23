@@ -10,7 +10,7 @@ permalink: /docs/mod6/
 * The first think we want to do is name our file - **The filename is very important!** 
     * Start the file name with today's date in this format: `YYYY-MM-DD`, for example `2018-02-12`
     * Next in the filename will be a dash `-` followed by the quarter, for example `w18` for Winter 2018
-    * Next will be another underscore, followed by your group number, for example `_01` for group 1
+    * Next will be underscore, followed by your group number, for example `_01` for group 1
     * Finally, add the Markdown file extension `.md` -- you'll end up with something like: `2018-02-12-w18_01.md`
 * Now that we've given our file a name, let's add some of the "Frontmatter", or the article's metadata. This "frontmatter" contains the essential information about your post. It must be formatted correctly for your post to display properly. Copy and paste the following into the text area of your file - make sure you get all the lines, including the three dashes on the first and last lines!:
 
@@ -21,5 +21,5 @@ permalink: /docs/mod6/
 
 #### Previewing your article stub
 * To view your article stub, visit the live project site for your repository.
-* Once there, click on the "hamburger" menu to expand and select "Article Index". Look for your article title in the list and click on it.
+* Once there, click on the menu icon on the top right of the map to expand and select "Article Index". Look for your article title in the list and click on it.
 * There's not much there now, but you'll soon fill it in :)
