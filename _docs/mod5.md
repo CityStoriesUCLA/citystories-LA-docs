@@ -40,7 +40,7 @@ Now let's add your teammates as collaborators to your forked site so they can co
 
 #### Add your project site link to your GitHub repository
 * For easier access, you can add the URL to your published site to the top of your repository page.
-* Navigate to the main repository page -- just under the tabs you'll see "No description for website provided. - Edit". It might already have the URL to the main site here (`http://citystoriesucla.github.io/lyricalmap`). We want to replace it.
+* Navigate to the main repository page by clicking on the "Code" tab. Just under the tabs you'll see the URL to the main site here (`http://citystoriesucla.github.io/lyricalmap`). We want to replace it with a link to our own fork.
 * Click on "Edit".
 * Add the URL from "Settings : GitHub Pages" to the "Website" field. Click "Save".
 * Now you can quickly visit your live page from your main repository page!
