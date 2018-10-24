@@ -13,7 +13,7 @@ Creating a *fork* produces your own personal copy of someone else’s code. This
 
 * **Essential: Only one person in your group should fork the site**. Start by choosing who in your group should fork the site. The others will be added as collaborators and will be able to work directly on the site that way. 
 * While logged in to your GitHub account, visit the `lyricalmap` repository: `https://github.com/CityStoriesUCLA/lyricalmap`
-* See in the top right corner where is has the "Fork" button? Click on it. ![](https://www.linode.com/docs/assets/github-fork.png)
+* See the "Fork" button in the top right corner? Click on it. ![](https://www.linode.com/docs/assets/github-fork.png)
 * You'll see an animation letting you know that GitHub is copying the site over to your account.
 * Once that's done, you should see the `lyricalmap` repository, with all the folders and files, in your own GitHub account. Check the top of the page and make sure it has `[youraccountname] / lyricalmap`.
 * Do you see the `_posts` folder from the "[Prepare for Lab session 1](../mod4/)" assignment?
