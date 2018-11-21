@@ -21,7 +21,7 @@ Complete on your own:
 #### Week 7
 Complete in class (during trip to Special Collections):
 * [Module 2: The Image Worksheet](../mod2/)
-* Hoemwork: Make sure your form is complete before the next class session!
+* Homework: Make sure your form is complete before the next class session!
 
 #### Week 8
 Homework: Complete on your own before the next session with library staff:
