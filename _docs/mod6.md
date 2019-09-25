@@ -7,7 +7,7 @@ permalink: /docs/mod6/
 * **Only one person in your group will create the file!**
 * In your GitHub `lyricalmap` repository `[githubusername] / lyricalmap`, navigate to the `_posts` directory.
 * You are going to create a new file here by clicking the "Create New File" button [](https://help.github.com/assets/images/help/repository/create_new_file.png)
-* The first think we want to do is name our file - **The filename is very important!** 
+* The first thing we want to do is name our file - **The filename is very important!** 
     * Start the file name with today's date in this format: `YYYY-MM-DD`, for example `2018-02-12`
     * Next in the filename will be a dash `-` followed by the quarter, for example `w18` for Winter 2018
     * Next will be  an underscore, the word `section` and then your *section* number, for example `_section02` for section 2. If you do not know your section number, check the schedule of classes or ask your instructor
